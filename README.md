@@ -29,3 +29,7 @@ Download Ollama from: https://ollama.ai
 Then run a model:
 ```bash
 ollama run ollama3.2
+```
+
+### Screenshot
+![Weather Forecast Screenshot](/screenshots/img.png)
