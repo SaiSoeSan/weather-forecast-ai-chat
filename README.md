@@ -1,10 +1,9 @@
 # 🌦️ Weather Forecast Chat AI
 
 This is a simple **Weather Forecast Chat AI** built using **Spring AI** and **Ollama** or **OpenAI**.   
-The AI can talk like a normal assistant but also provide weather forecasts using a **custom tool**.
+The AI can talk like a normal assistant but also provide weather forecasts using a **custom tool** connecting with external functionality..
 
-✅ **No external API required**  
-✅ **Uses @Tool annotation for weather lookup**  
+✅ **Uses @Tool annotation for weather lookup external functionality**  
 ✅ **Returns random weather forecasts**  
 ✅ **Lightweight & beginner-friendly**
 
